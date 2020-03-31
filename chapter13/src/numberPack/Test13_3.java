@@ -1,6 +1,6 @@
 package numberPack;
 
-/*自动拆装箱*/
+/*Integer自动拆装箱*/
 public class Test13_3 {
     public static void main(String[] args) {
         //自动装箱
