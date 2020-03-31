@@ -1,5 +1,6 @@
 package numberPack;
 
+/*Integer的最值*/
 public class Test13_1 {
     public static void main(String[] args) {
         /*类的属性*/
