@@ -49,6 +49,8 @@ public class Test14_1 {
         collection.addAll(coll);
         System.out.println();
     }
+    /*5.equals()用于比较集合中的元素是否相同*/
+
 }
 
 
